@@ -1,0 +1,19 @@
+{
+    "bridge": {
+        "name": "VeraLite",
+        "username": "CC:22:3D:E3:CE:30",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+    "description": "Vera",
+    "platforms": [
+        {
+            "platform": "VeraLite",
+            "name": "VeraLite",
+            "VeraIP": "xxx.xxx.xxx.xxx",
+            "excludeID": ["14","18","17", "15", "16","12","47","37","38","51"]
+        }
+    ],
+    "accessories": [
+    ]
+}
