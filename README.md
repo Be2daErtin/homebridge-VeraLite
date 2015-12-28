@@ -7,6 +7,10 @@ This plugin is created to connect Vera to your homekit using homebridge by nfari
 #Installation
 Working progress
 
+#Configuration
+Edit the config.json file by adding the IP of your Vera.
+The plug-in has the ability to ignore certain device ID's. Just add these ID's as shown in the sample-config.json file.
+
 #Supported Devices
 The following devices have been tested:
 
