@@ -5,7 +5,16 @@ This plugin is created to connect Vera to your homekit using homebridge by nfari
 
 
 #Installation
-Working progress
+##Working progress (Using OsX as an example)
+
+Step 1: Install HomeBridge  
+$ sudo npm install -g homebridge  
+  
+Step 2: Run HomeBridge  
+$ homebridge  
+You should see the following message (if no plugins are installed)  
+No plugins found. See the README for information on installing plugins.  
+Couldn't find a config.json file at '/Users/bertinjacobs/.homebridge/config.json'. Look at config-sample.json for examples of how to format your config.js and add your home accessories.  
 
 #Configuration
 Edit the config.json file by adding the IP of your Vera.
